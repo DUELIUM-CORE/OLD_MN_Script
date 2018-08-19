@@ -56,10 +56,10 @@ Duelium-cli mnsync status #To check if your MN is synced.
 Also, if you want to check/start/stop **Duelium**, run one of the following commands as **root**:
 
 ```
-systemctl status Duelium #To check if Nodium service is running
-systemctl start Duelium #To start Nodium service
-systemctl stop Duelium #To stop Nodium service
-systemctl is-enabled Duelium #To check if Nodium service is enabled on boot
+systemctl status Duelium #To check if Duelium service is running
+systemctl start Duelium #To start Duelium service
+systemctl stop Duelium #To stop Duelium service
+systemctl is-enabled Duelium #To check if Duelium service is enabled on boot
 ```
 ***
 
